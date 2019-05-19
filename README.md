@@ -1,5 +1,5 @@
 # Functional Javascript
-Collections of methods written in Javascript using functional approach.
+Collections of methods written in Javascript using **functional approach**.
 
 ## Methods
 - [See all methods](methods)
