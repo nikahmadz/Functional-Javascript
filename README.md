@@ -1,6 +1,2 @@
-# Functional Javascript
-Collections of methods written in Javascript using **functional approach**.
+# Initial page
 
-## Methods
-- [See all methods](methods)
-- [Format Time](methods/getFormatedTime.md) - Format Time to a String
