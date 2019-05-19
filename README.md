@@ -2,7 +2,7 @@
 
 Collections of methods written in Javascript using **functional approach**.
 
-If you would like to contribute, just click the GitHub button on the left.
+If you would like to contribute, edit this book on GitHub.
 
 ### Methods
 
