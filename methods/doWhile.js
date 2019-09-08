@@ -3,7 +3,7 @@ _do=function(repeat,condition,interval,onExit){
   repeat();
   if(condition()){
     const args=arguments,that=this;
-    run(function(){_while.apply(that,args)},interval)
+    run(function(){_do.apply(that,args)},interval)
     return
   }
   af(onExit)?onExit():_;
