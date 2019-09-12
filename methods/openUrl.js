@@ -1,5 +1,6 @@
 const
 openUrl=function(url,target,delay){
-  run(function(){w.open(url||'',target||'_self').focus()},delay||250)
+  const u=url||'';
+  run(function(){avs(target)?w.open(u,target||'_blank').focus():w.location=u},delay||250)
 }
 ;
