@@ -1,0 +1,6 @@
+const
+openUrl=function(url,target,delay){
+  const u=url||'',t=target||'_self',d=delay||250;
+  run(function(){w.open(u,t).focus()},d)
+}
+;
